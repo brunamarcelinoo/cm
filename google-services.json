@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551400380212",
+    "project_id": "cm01-7b6e2",
+    "storage_bucket": "cm01-7b6e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551400380212:android:05d3092a33adafbb1ab761",
+        "android_client_info": {
+          "package_name": "pt.ips.lei_cm.cm01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbut5p3_1kdMNN8wI-_aPy6I2FQkPnYfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
